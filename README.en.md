@@ -14,10 +14,11 @@ Other languages:
 ## Table of Contents
 
 <!-- vim-markdown-toc GFM -->
+
 * [Spacing](#spacing)
     * [Place one space before/after English words](#place-one-space-beforeafter-english-words)
     * [Place one space before/after numbers](#place-one-space-beforeafter-numbers)
-    * [Place one space between numbers and units](#place-one-space-between-numbers-and-units)
+    * [No space between numbers and units](#no-space-between-numbers-and-units)
     * [No additional spaces before/after punctuation in fullwidth form](#no-additional-spaces-beforeafter-punctuation-in-fullwidth-form)
     * [`-ms-text-autospace` to the rescue?](#-ms-text-autospace-to-the-rescue)
 * [Punctuation](#punctuation)
@@ -73,17 +74,17 @@ Bad:
 
 > 今天出去买菜花了5000元。
 
-### Place one space between numbers and units
+### No space between numbers and units
 
 Good:
 
-> 我家的光纤入户宽带有 10 Gbps，SSD 一共有 20 TB。
+> 我家的光纤入户宽带有 10Gbps，SSD 一共有 10TB。
 
 Bad:
 
-> 我家的光纤入户宽带有 10Gbps，SSD 一共有 10TB。
+> 我家的光纤入户宽带有 10 Gbps，SSD 一共有 20 TB。
 
-Exceptions: There should not be any spacing between numbers and degrees/percentages.
+Besides, there should not be any spacing between numbers and degrees/percentages.
 
 Good:
 
